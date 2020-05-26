@@ -1,0 +1,25 @@
+#pebungkus{
+	margin: 5% 20%;
+}
+.btn{
+	margin-bottom: 2%;
+
+}
+table{
+	text-align: center;
+	margin: 0 auto;
+	border-spacing: 2px;
+}
+.navbar{
+	padding: 0 1rem;
+}
+.nav-item{
+	padding: 5px;
+}
+.nav-item:hover{
+	background-color: orange;
+}
+.grid{
+	display: grid;
+	grid-template-columns: 60% 40%;
+}
