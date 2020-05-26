@@ -7,5 +7,5 @@ these are steps
 - import the dbparkir.sql file in the db folder into the database that was linked earlier
 - open the browser then run by writing localhost/parking.
 
-Username : admin
-Password : admin
+-Username : admin
+-Password : admin
